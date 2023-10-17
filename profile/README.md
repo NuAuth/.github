@@ -1,4 +1,4 @@
-# Welcome to NuAuth DRM Solutions
+<h1>Welcome to NuAuth DRM Solutions</h1>
 ## <i>Helping the Average Small-Time Developer Achieve Their Goals and Maximize Profit</i>
 
 ### About NuAuth
