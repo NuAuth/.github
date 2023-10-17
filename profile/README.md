@@ -1,5 +1,5 @@
 <h1>Welcome to NuAuth DRM Solutions</h1>
-## <i>Helping the Average Small-Time Developer Achieve Their Goals and Maximize Profit</i>
+<h2><i>Helping the Average Small-Time Developer Achieve Their Goals and Maximize Profit</i></h2>
 
 ### About NuAuth
 NuAuth DRM Solutions, also known as NuAuth, is dedicated to supporting developers—both small-time and professional level—by providing cutting-edge security. Our mission is to empower developers to secure their digital creations and thrive in the world of content distribution.
