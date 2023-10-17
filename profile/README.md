@@ -8,9 +8,9 @@ NuAuth DRM Solutions, also known as NuAuth, is dedicated to supporting developer
 At NuAuth, we strive to be a beacon of support and innovation for the average small-time developer. We understand the challenges you face and are here to offer DRM solutions tailred to your needs. Our team is committed to assisting you in achieving your goals and maximizing profit through reliable and robust DRM solutions.
 
 ### Getting Started
-Visit our [website](https://nuauth.xyz) to learn more about NuAuth DRM Solutions, expore our offerings, and start securing your digital creations today. Feel free to delve into our documentation and community resources found on our website to kickstart your DRM journey with NuAuth.
+Visit our (website)[https://nuauth.xyz] to learn more about NuAuth DRM Solutions, expore our offerings, and start securing your digital creations today. Feel free to delve into our documentation and community resources found on our website to kickstart your DRM journey with NuAuth.
 
 ### Connect with Us
-For inquiries, support, or collaboration opportunities, please reach out to us at (support@nuauth.xyz)[support@nuauth.xyz]. Join our (discord)[https://discord.gg/Aeu7wj6cWa] to engage with other developers and share your experiences with us!
+For inquiries, support, or collaboration opportunities, please reach out to us at [support@nuauth.xyz](support@nuauth.xyz). Join our [discord](https://discord.gg/Aeu7wj6cWa) to engage with other developers and share your experiences with us!
 
 Thank you for choosing NuAuth DRM Solutions. Together, let's safeguard your creations and unlock your potential in the digital realm.
