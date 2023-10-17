@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 # Welcome to NuAuth DRM Solutions
 ## <i>Helping the Average Small-Time Developer Achieve Their Goals and Maximize Profit</i>
 
