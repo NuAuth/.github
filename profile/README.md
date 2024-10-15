@@ -1,4 +1,4 @@
-<b>NuAuth is still in development. We do not have a planned release date. Our website will have random uptime and downtime due to active development.</b>
+<b><i>NuAuth is still in development. We do not have a planned release date. Our website will have random uptime and downtime due to active development.</i></b>
 
 # Welcome to NuAuth DRM Solutions
 ## <i>Helping the Average Small-Time Developer Achieve Their Goals and Maximize Profit</i>
